@@ -9,7 +9,7 @@
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="css/styles.css" rel="stylesheet" />
+        <link href="../css/styles.css" rel="stylesheet" />
     </head>
     <body>
         <div class="d-flex" id="wrapper">
@@ -18,11 +18,14 @@
                 <div class="sidebar-heading border-bottom bg-light">Exercice PHP</div>
                 <div class="list-group list-group-flush">
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="ex1/index.php" >Exercice 1</a>
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Exercice 2</a>
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Exercice 3</a>
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Events</a>
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Profile</a>
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Status</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="ex3/index.php">Exercice 3</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Exercice 4</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Exercice 5</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Exercice 6</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Exercice 7</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Exercice 8</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Exercice 9</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Exercice 10</a>
                 </div>
             </div>
             <!-- Page content wrapper-->
@@ -34,7 +37,7 @@
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav ms-auto mt-2 mt-lg-0">
-                                <li class="nav-item active"><a class="nav-link" href="#!">Home</a></li>
+                                <li class="nav-item active"><a class="nav-link" href="../index.php">Home</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#!">Link</a></li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
