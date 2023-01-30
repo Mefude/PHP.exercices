@@ -19,7 +19,7 @@
                 <div class="list-group list-group-flush">
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="ex1/index.php" >Exercice 1</a>
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="ex3/index.php">Exercice 3</a>
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Exercice 4</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="ex4/index.php">Exercice 4</a>
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Exercice 5</a>
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Exercice 6</a>
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#!">Exercice 7</a>
